@@ -2,4 +2,4 @@
 
 Includes:
 
--
+- Prettier
